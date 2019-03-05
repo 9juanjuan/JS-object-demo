@@ -6,4 +6,12 @@ I : 1,
 O : 0,
 S : 5,
 T : 7
+};
+
+function transl33t(originalString) {
+    let result = '';
+
+
+
+    return result;
 }
